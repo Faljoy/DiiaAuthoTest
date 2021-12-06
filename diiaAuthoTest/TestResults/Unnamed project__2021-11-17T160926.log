@@ -1,0 +1,27 @@
+﻿2021-11-17T16:09:26.5758793+02:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2021-11-17T16:09:26.5759949+02:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.9.7 in Framework net50 in x64 mode execution started
+2021-11-17T16:09:26.5759978+02:00;VSTestExecutionThread;Info;TestAdapter Location: D:\курсы\обучение\15.11.21\diiaAuthoTest\diiaAuthoTest\bin\Debug\net5.0\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2021-11-17T16:09:26.5769659+02:00;VSTestExecutionThread;Info;Current UserName: 'Legion', MachineName: 'DESKTOP-8SKND86'
+2021-11-17T16:09:26.5945543+02:00;VSTestExecutionThread;Info;SpecRun: running tests in D:\курсы\обучение\15.11.21\diiaAuthoTest\diiaAuthoTest\bin\Debug\net5.0\diiaAuthoTest.dll
+2021-11-17T16:09:26.5946957+02:00;VSTestExecutionThread;Info;Output folder configured to "D:\курсы\обучение\15.11.21\diiaAuthoTest\TestResults" (default)
+2021-11-17T16:09:26.5947387+02:00;VSTestExecutionThread;Info;Profile: 
+2021-11-17T16:09:26.6216535+02:00;VSTestExecutionThread;Info;Log file path: D:\курсы\обучение\15.11.21\diiaAuthoTest\TestResults\Unnamed project__2021-11-17T160926.log
+2021-11-17T16:09:26.6251212+02:00;Thread#12;Info;Checking activation
+2021-11-17T16:09:27.9959589+02:00;Thread#12;Error;****************************************************************************************************************
+2021-11-17T16:09:27.9961549+02:00;Thread#12;Error;*                                           SpecFlow+ Runner                                                   *
+2021-11-17T16:09:27.9962067+02:00;Thread#12;Error;****************************************************************************************************************
+2021-11-17T16:09:27.9963793+02:00;Thread#12;Error;Please sign-up for your free SpecFlow account or sign-in with your already existing account here:
+2021-11-17T16:09:27.9964600+02:00;Thread#12;Error;https://account.specflow.org/clientactivation/welcome/Runner/E9CF3D89928A487087DAA0D8E8DFCBF993CB2ED79FE3AFCFF38E4E338857DAF1B5C03183/NotActivatedYet
+2021-11-17T16:09:27.9965084+02:00;Thread#12;Error;to execute your Scenarios again.
+2021-11-17T16:09:27.9966586+02:00;Thread#12;Error;If you are reading this message on a build agent, we couldn't recognize the agent.
+2021-11-17T16:09:27.9967175+02:00;Thread#12;Error;Please get in touch with us at support@specflow.org.
+2021-11-17T16:09:27.9968425+02:00;Thread#12;Error;****************************************************************************************************************
+2021-11-17T16:09:28.0000583+02:00;Thread#12;Error;No tests executed (activation needed)
+2021-11-17T16:09:28.0089471+02:00:Total: 0
+2021-11-17T16:09:28.0101663+02:00:Succeeded: 0
+2021-11-17T16:09:28.0103599+02:00:Ignored: 0
+2021-11-17T16:09:28.0105257+02:00:Pending: 0
+2021-11-17T16:09:28.0110743+02:00:Skipped: 0
+2021-11-17T16:09:28.0112720+02:00:Failed: 0
+2021-11-17T16:09:28.0148726+02:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+========== End of log file ==========
